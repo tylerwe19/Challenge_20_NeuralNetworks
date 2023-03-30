@@ -1,10 +1,10 @@
 # Challenge_20_NeuralNetworks
 
-##Analyzing Alphabet Soup Applicants
+## Analyzing Alphabet Soup Applicants
 
 The purpose of this analysis is to create a neural network model that predicts whether applicants will be successful if funded by Alphabet Soup. The goal is for this analysis to create a model that has a predictive accuracy that is higher than 75%.
 
-##Results
+## Results
  * Data Preprocessing
     * Since the goal of this analysis/model is to predict if an applicant is successful, the IS_SUCCESSFUL field is the target variable
     * All other variables are featured in this model to help the model predict applicant success except for the variables listed below. Variables to help the model predict success are Application type, affiliation, classification, organization type, income, special considerations, and how much the applicant is asking for.
