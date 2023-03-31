@@ -27,7 +27,7 @@ The purpose of this analysis is to create a neural network model that predicts w
 
 
 
-            * Lastly, I created a third model based on a subset of the original cleaned dataframe. This dataframe has the Application types, classification types, income amounts, and special considerations variables to predict the success of the applicant. This model's performance in terms of predictive accuracy drastically diminshed. See below:
+      * Lastly, I created a third model based on a subset of the original cleaned dataframe. This dataframe has the Application types, classification types, income amounts, and special considerations variables to predict the success of the applicant. This model's performance in terms of predictive accuracy drastically diminshed. See below:
 
 
 
